@@ -1,4 +1,4 @@
-#Predicting Forest Fire in Algeria Using DataMining Techniques
+## Predicting Forest Fire in Algeria Using DataMining Techniques
 
 Dataset Information
 Additional Information
