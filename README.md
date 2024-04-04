@@ -29,3 +29,8 @@ FWI Components
 Associated Tasks
 Classification, Regression
 
+## Steps
+## EDA
+## FEATURE ENGINEERING
+## DATA CLEANING
+## MODEL TRAINING
