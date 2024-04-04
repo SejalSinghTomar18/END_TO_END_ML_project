@@ -26,4 +26,6 @@ FWI Components
 11. Fire Weather Index (FWI) Index: 0 to 31.1
 12. Classes: two classes, namely   â€œFireâ€ and â€œnot Fireâ€
 
+Associated Tasks
+Classification, Regression
 
