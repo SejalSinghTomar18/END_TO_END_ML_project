@@ -24,10 +24,9 @@ FWI Components
 9. Initial Spread Index (ISI) index from the FWI system: 0 to 18.5 
 10. Buildup Index (BUI) index from the FWI system: 1.1 to 68
 11. Fire Weather Index (FWI) Index: 0 to 31.1
-12. Classes: two classes, namely   â€œFireâ€ and â€œnot Fireâ€
 
-Associated Tasks
-Classification, Regression
+
+Associated Task: Regression
 
 ## Steps
 ## EDA
